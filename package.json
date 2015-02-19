@@ -1,5 +1,5 @@
 {
-    "name":"POC",
+    "name":"poc",
     "version":"0.0.1",
     "author":"Kalaikaran K",
     "description":"sample testing module",
@@ -7,6 +7,12 @@
     "repository":{
         "type":"git",
         "url":""
-    }
+    },
+    "dependencies":{
+        "flat":">=1.5.0",
+        "JSONSelect":">=0.4.0",
+        "grunt":">0.4.0"
+    },
+    "main":"src/index.js"
     
 }
