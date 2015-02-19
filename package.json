@@ -1,0 +1,12 @@
+{
+    "name":"POC",
+    "version":"0.0.1",
+    "author":"Kalaikaran K",
+    "description":"sample testing module",
+    "keywords":["POC","sample"],
+    "repository":{
+        "type":"git",
+        "url":""
+    }
+    
+}
